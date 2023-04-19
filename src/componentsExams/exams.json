@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 5,
+            "attributes": {
+                "examcode": "202010473",
+                "examvalue": 1.85,
+                "deliverytime": "3",
+                "createdAt": "2023-04-05T16:45:03.948Z",
+                "updatedAt": "2023-04-05T16:45:03.948Z",
+                "publishedAt": "2023-04-05T16:45:03.943Z",
+                "examname": "DOSAGEM DE GLICOSE",
+                "information": "Exame não precisa de autorização",
+                "collectiondate": null,
+                "receivedexam": null,
+                "numbercardsus": null,
+                "databirth": null,
+                "nameclient": null,
+                "passwordexam": null
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "examcode": "202010317",
+                "examvalue": 1.85,
+                "deliverytime": "3",
+                "createdAt": "2023-04-05T08:16:31.789Z",
+                "updatedAt": "2023-04-05T18:30:19.737Z",
+                "publishedAt": "2023-04-05T08:16:40.081Z",
+                "examname": "DOSAGEM DE CREATININA",
+                "information": "Exame não precisa de autorização",
+                "collectiondate": null,
+                "receivedexam": null,
+                "numbercardsus": null,
+                "databirth": null,
+                "nameclient": null,
+                "passwordexam": null
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "examcode": "40316157",
+                "examvalue": 61.29,
+                "deliverytime": "5",
+                "createdAt": "2023-04-05T08:18:38.456Z",
+                "updatedAt": "2023-04-05T18:38:08.639Z",
+                "publishedAt": "2023-04-05T08:18:46.440Z",
+                "examname": "ANTIPEROXIDASE TIREOIDEANA (ANTI-TPO) ",
+                "information": "Exame não precisa de autorização.",
+                "collectiondate": null,
+                "receivedexam": null,
+                "numbercardsus": null,
+                "databirth": null,
+                "nameclient": null,
+                "passwordexam": null
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "examcode": "202050017",
+                "examvalue": 3.7,
+                "deliverytime": "3",
+                "createdAt": "2023-04-05T08:17:49.104Z",
+                "updatedAt": "2023-04-05T18:45:17.487Z",
+                "publishedAt": "2023-04-05T08:17:57.699Z",
+                "examname": "ANALISE DE CARACTERES FISICOS, ELEMENTOS E SEDIMENTO DA URINA",
+                "information": "Exame não precisa de autorização.",
+                "collectiondate": null,
+                "receivedexam": null,
+                "numbercardsus": null,
+                "databirth": null,
+                "nameclient": null,
+                "passwordexam": null
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 4
+        }
+    }
+}

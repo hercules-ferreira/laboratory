@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "id": 10,
+            "attributes": {
+                "namesocial": null,
+                "namemother": "MARIA DE OLIVEIRA SANTOS",
+                "databirth": "1984-05-09",
+                "gender": "FEMININO",
+                "cpf": "56423985654",
+                "medicalrecordnumber": "06041258",
+                "numbercardsus": "801440165266416",
+                "createdAt": "2023-04-04T19:05:52.769Z",
+                "updatedAt": "2023-04-04T19:05:52.769Z",
+                "publishedAt": "2023-04-04T19:05:52.766Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 11,
+            "attributes": {
+                "namesocial": "AMANDA AURORA DOS SANTOS",
+                "namemother": "MARIA DOS SANTOS ",
+                "databirth": "1983-06-05",
+                "gender": "MASCULINO",
+                "cpf": "54298543286",
+                "medicalrecordnumber": "0503172",
+                "numbercardsus": "801440355233435",
+                "createdAt": "2023-04-04T19:13:58.210Z",
+                "updatedAt": "2023-04-05T01:23:31.863Z",
+                "publishedAt": "2023-04-04T19:13:58.206Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 12,
+            "attributes": {
+                "namesocial": "",
+                "namemother": "FABIANA KRASER",
+                "databirth": "1989-05-02",
+                "gender": "MASCULINO",
+                "cpf": "46787654893",
+                "medicalrecordnumber": "0502016",
+                "numbercardsus": "801440145296415",
+                "createdAt": "2023-04-04T20:48:23.495Z",
+                "updatedAt": "2023-04-05T01:30:49.836Z",
+                "publishedAt": "2023-04-04T20:48:23.492Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 13,
+            "attributes": {
+                "namesocial": "",
+                "namemother": "FRANCISCA SALTO",
+                "databirth": "2003-05-01",
+                "gender": "FEMININO",
+                "cpf": "34678325682",
+                "medicalrecordnumber": "0305142",
+                "numbercardsus": "801242155296414",
+                "createdAt": "2023-04-05T01:38:18.312Z",
+                "updatedAt": "2023-04-05T01:38:53.333Z",
+                "publishedAt": "2023-04-05T01:38:18.310Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 1,
+            "attributes": {
+                "namesocial": null,
+                "namemother": "MARIA HELENA PEDRANELLI",
+                "databirth": "1970-04-23",
+                "gender": "FEMININO",
+                "cpf": "43587698798",
+                "medicalrecordnumber": "0302173",
+                "numbercardsus": "801440155296415",
+                "createdAt": "2023-04-04T16:11:36.169Z",
+                "updatedAt": "2023-04-05T13:21:47.447Z",
+                "publishedAt": "2023-04-04T16:11:45.793Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "namesocial": null,
+                "namemother": "GERALDA FERREIRA BARBOSA",
+                "databirth": "2006-04-02",
+                "gender": "FEMININO",
+                "cpf": "23454354658",
+                "medicalrecordnumber": "0506123",
+                "numbercardsus": "801440159296919",
+                "createdAt": "2023-04-04T18:27:37.110Z",
+                "updatedAt": "2023-04-07T00:38:43.248Z",
+                "publishedAt": "2023-04-04T18:27:37.106Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "namesocial": null,
+                "namemother": "MARIA PRATES LIMA",
+                "databirth": "1989-04-06",
+                "gender": "FEMININO",
+                "cpf": "33567892461",
+                "medicalrecordnumber": "0205193",
+                "numbercardsus": "801440175296717",
+                "createdAt": "2023-04-04T18:48:47.888Z",
+                "updatedAt": "2023-04-07T00:39:46.640Z",
+                "publishedAt": "2023-04-04T18:48:47.885Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "namesocial": null,
+                "namemother": "MARIA GONÇALVES TAVARES",
+                "databirth": "1986-09-03",
+                "gender": "FEMININO",
+                "cpf": "43576898765",
+                "medicalrecordnumber": "0504071",
+                "numbercardsus": "801460165266416",
+                "createdAt": "2023-04-04T18:33:29.389Z",
+                "updatedAt": "2023-04-07T00:40:32.705Z",
+                "publishedAt": "2023-04-04T18:33:29.386Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "namesocial": null,
+                "namemother": "BERNADETTE LIMA GONÇALVES",
+                "databirth": "1970-04-23",
+                "gender": "FEMININO",
+                "cpf": "87645329874",
+                "medicalrecordnumber": "0202171",
+                "numbercardsus": "801242155296412",
+                "createdAt": "2023-04-04T18:55:36.323Z",
+                "updatedAt": "2023-04-07T07:33:01.040Z",
+                "publishedAt": "2023-04-04T18:55:36.318Z",
+                "informationclient": null,
+                "nameclient": null
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 9
+        }
+    }
+}
