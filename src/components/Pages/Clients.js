@@ -86,7 +86,14 @@ export function Clients() {
 
                   <div>
                     {filtered(customer.attributes.numbercardsus).map((exam) => {
-                      return <h4>Nome: {exam.attributes.examname}</h4>;
+                      return (
+                        <h4>
+                          {" "}
+                          <strong>Nome: </strong>
+                          {exam.attributes.examname},{" "}
+                          <strong>Price: {exam.attributes.price}</strong>
+                        </h4>
+                      );
                     })}
                   </div>
                 </div>
