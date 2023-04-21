@@ -88,10 +88,10 @@ export function Clients() {
                     {filtered(customer.attributes.numbercardsus).map((exam) => {
                       return (
                         <h4>
-                          {" "}
                           <strong>Nome: </strong>
-                          {exam.attributes.examname}, <strong>Price: </strong>
-                          {exam.attributes.examvalue}
+                          {exam.attributes.examname},
+                          <strong>Valor do Exame: </strong>
+                          {exam.attributes.examvalue} reais
                         </h4>
                       );
                     })}
