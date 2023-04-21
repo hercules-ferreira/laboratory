@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "http://localhost:1337/api";
+const baseURL = "https://laboratory-api.onrender.com/api";
 const token = `61ef97fd174f100668fa7366f56d9ac58f8da9eaf384320dec69317a500c6ece1091a3f188dfa2e2e2c821e4f5a19bb0715fb3533c0f61137f6453eb8ddaa9a5ece83c05c4e62a8aa8ccf4215845c227f86020f1b405f2aaf6ced327c766040023db165be2e5f724c6dd605a2d4599ecd254270ba8a7814f8fa64fcac44907ec
 `;
 
