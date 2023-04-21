@@ -89,9 +89,7 @@ export function Clients() {
                       return (
                         <h4>
                           <strong>Nome: </strong>
-                          {exam.attributes.examname},
-                          <strong>Valor do Exame: </strong>
-                          {exam.attributes.examvalue} reais
+                          {exam.attributes.examname}
                         </h4>
                       );
                     })}
