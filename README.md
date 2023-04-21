@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1><span style="color:blue">
+<font size=30>Laboratory | Central Exams </font></span><h1>
 
-## Available Scripts
+<h1><span style="color:blue">
+<font size=30>Índice</font></span></h1>
 
-In the project directory, you can run:
+- [Tela de Login](#Tela-de-login)
+- [Tela de Cadastro](#Tela-de-Cadastro)
+- [Cadastro de Nova Categoria](#Cadastro-de-Nova-Categoria)
+- [Cadastro de Novo Exame](#Cadastro-de-Novo-Exame)
+- [Página de Dashboard](#Página-de-Dashboard)
+- [Acesso aos detalhes do Exame](#Acesso-aos-detalhes-do-Exame)
+- [Concluir pedido de Exame](#Concluir-pedido-de-Exame)
+- [Novas Versões](#Novas-Versões)
+- [Atualizações](#Atualizações)
+- [Issues](#Issues)
+- [License](#License)
+- [Agradecimentos](#Agradecimentos)
+- [Contribuição](#Contribuição)
 
-### `npm start`
+<h1><span style="color:blue">
+<font size=30>Regras | Game - ASCII</font></span></h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="icon.png" align="right" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📜 O objetivo da construção desse sistema, é para auxiliar empresas com as realizações de exames laboratoriais.
 
-### `npm test`
+📜 Contribuíndo com o controle desde o acesso de seus colaboradores, bem como o cadastro de:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Categorias de exames;
+- Cadastro de novos exames;
+- Área restrita apenas para usuários;
+- Painel de Dashboard;
+- Visualização dos detalhes de cada pedido;
+- Conclusão do pedido exame;
 
-### `npm run build`
+📜 A tela inicial para usuários já cadastratos, acessar todo o conteúdo do site e suas aplicações.
+<br>
+📜 Na página de novo cadastro, o usuário pode se cadastrar.
+<br>
+📜 O Dashboard possui todos os exames pendentes aguardando retorno/entrega dos laudos dos exames pelo laboratório.
+<br>
+📜 A tela de cadastro de novas categorias para cadastro de novos exames.
+<br>
+📜 Local para cadastro de novos exames com seus detalhes, como valor, prazo de entrega, e como código específico do exame.
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h1><span style="color:blue">
+<font size=30>📋 Meta
+</font></span></h1>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> :construction: Novas Versões da Aplicação :construction:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📌 [Objetivos](https://github.com/ai/size-limit#readme) criar a etapa onde o sistema faça a comparação de exames recebido e exames processados, para poder faturar cada exame do cliente.
 
-### `npm run eject`
+<h1><span style="color:blue">
+<font size=30>📋 Principais aplicações para a confecção dessa ferramenta.
+</font></span></h1>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```javascript
+   | HTML          | CSS           | Javascript      | Typescript      || Next            |
+   | ------------- | ------------- | --------------- | --------------- || --------------- |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| CRUD                          |
+| useContext                    |
+| Head                          |
+| Header                        |
+| toast                         |
+| canSSRAuth                    |
+| parseCookies                  |
+| AxiosError                    |
+| Prosma                        |
+| multer                        |
+| crypto                        |
+| compare                       |
+| sign                          |
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h1><span style="color:blue">
+<font size=30>📋 License
+</font></span></h1>
 
-## Learn More
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To the extent possible under law, [Hercules Ferreira Ribeiro](https://mts.io) has waived all copyright and related or neighboring rights to this work.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h1><span style="color:blue">
+<font size=30>🐛 Issues</font></span></h1>
 
-### Code Splitting
+Contate me através do github
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h1><span style="color:blue">
+<font size=30>🚀 Agradecimentos
+</font></span></h1>
 
-### Analyzing the Bundle Size
+- Agradecimentos
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<h1><span style="color:blue">
+<font size=30>🚀 Contribuição
+</font></span></h1>
 
-### Making a Progressive Web App
+1. Faça o _fork_ do projeto
+2. Crie uma _branch_ para sua modificação (`git checkout -b meu-novo-recurso`)
+3. Faça o _commit_ (`git commit -am 'Adicionando um novo recurso...'`)
+4. _Push_ (`git push origin meu-novo-recurso`)
+5. Crie um novo _Pull Request_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Happy coding!** :heart:
 
-### Advanced Configuration
+ <br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Back to top](#faqs)
