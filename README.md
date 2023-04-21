@@ -21,7 +21,7 @@
 - [Contribuição](#Contribuição)
 
 <h1><span style="color:blue">
-<font size=30>Regras | Game - ASCII</font></span></h1>
+<font size=30>Laboratory | Central Exams </font></span></h1>
 
 <img src="icon.png" align="right" />
 
