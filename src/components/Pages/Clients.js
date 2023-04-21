@@ -90,8 +90,8 @@ export function Clients() {
                         <h4>
                           {" "}
                           <strong>Nome: </strong>
-                          {exam.attributes.examname},{" "}
-                          <strong>Price: {exam.attributes.price}</strong>
+                          {exam.attributes.examname}, <strong>Price: </strong>
+                          {exam.attributes.examvalue}
                         </h4>
                       );
                     })}
